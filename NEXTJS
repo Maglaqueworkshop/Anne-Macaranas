@@ -1,0 +1,27 @@
+WindowsInstallation
+-Node.js
+
+VSCODE Extensions
+
+ES7+ React/Redux/React-Native snippets
+
+----
+Installing NEXTJS13
+1. npx create-next-app@latest my-next-app
+
+2.Choose:
+typescript - yes
+eslint - yes
+tailwind css - yes
+src - no
+App Router - Yes
+Import Alias - No
+
+npm run dev - to run the site
+---
+'use client';
+rafce - react arrow function export component
+
+
+app/users/page.tsx
+
